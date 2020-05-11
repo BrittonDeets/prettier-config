@@ -1,0 +1,8 @@
+{
+  "name": "@ncino/prettier-config",
+  "version": "1.0.0",
+  "description": "Standard Prettier config for nCino software development",
+  "main": "index.json",
+  "repository": "git@github.com:BrittonDeets/prettier-config.git",
+  "license": "UNLICENSED"
+}
